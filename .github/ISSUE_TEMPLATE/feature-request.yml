@@ -3,7 +3,7 @@ description: Request for a new Feature
 title: "[Feature Request]: "
 labels: ["feature","request"]
 assignees:
-  - Doug Mitchell
+  - dmitchell622
 body:
   - type: markdown
     attributes:
